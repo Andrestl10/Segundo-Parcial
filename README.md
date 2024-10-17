@@ -32,8 +32,8 @@ Tras crear los archivos lo ejecutamos con el siguiente comando
 
 Crearemos los archivos que se generan automaticamente por el antlr4 de la siguiente manera:
 
-       antlr4 -Dlanguage=Python3 ListGrammar.g4
-       antlr4 -visitor -Dlanguage=Python3 ListGrammar.g4
+       antlr4 -Dlanguage=Python3 MapFunction.g4
+       antlr4 -visitor -Dlanguage=Python3 MapFunction.g4
    
 Tras crear los archivos lo ejecutamos con el siguiente comando
 
