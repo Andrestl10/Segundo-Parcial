@@ -41,6 +41,11 @@ Tras crear los archivos lo ejecutamos con el siguiente comando
 
 3. Trasformada de Fourier
 
+Para este punto debemos tener intalados las bibliotecas de numpy y mathplotlib, si no estan instaladas se instalan de la siguiente manera:
+
+    pip install numpy
+    pip install matplotlib
+
 Crearemos los archivos que se generan automaticamente por el antlr4 de la siguiente manera:
 
        antlr4 -Dlanguage=Python3 Grammar.g4
